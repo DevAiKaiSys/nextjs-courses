@@ -48,3 +48,11 @@ pnpm dlx shadcn@latest init
 ```
 
 theme [tweakcn](https://tweakcn.com/editor/theme)
+
+## CMS
+
+[Sanity](https://www.sanity.io/docs/next-js-quickstart/diplaying-content-in-next-js)
+
+```bash
+pnpm add next-sanity @sanity/image-url
+```
